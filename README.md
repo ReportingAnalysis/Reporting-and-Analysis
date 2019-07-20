@@ -1,5 +1,5 @@
 SSRS
-created reports for GALACTIC DELIVERY SERVICES
+Reports for GALACTIC DELIVERY SERVICES
 
 Steps :
 Insatlled the SSRS enviornment. 
